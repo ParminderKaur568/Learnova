@@ -117,37 +117,7 @@ CSS media queries adjust:
 
 ---
 
-## 📂 Project Structure
 
-```text
-Learnova/
-│
-├── index.html
-├── style.css
-│
-├── images/
-│   ├── hero-learning.webp
-│   ├── web-development.webp
-│   ├── data-science.webp
-│   ├── ui-ux.webp
-│   ├── python.webp
-│   ├── digital-marketing.webp
-│   ├── business.webp
-│   └── instructor.webp
-│
-└── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-No framework, package manager, or server installation is required.
-
-### 1. Clone the Repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
 ```
 
 ### 2. Open the Project
